@@ -6,4 +6,5 @@ This is an introduction and refresher on Python, different version on "Hello Wor
 ### Implementation
 
 We will start by importing the module(s) we will need for this assignment.
+
 <img src="images/Picture1.png">
